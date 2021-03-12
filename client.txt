@@ -1,0 +1,51 @@
+1 ; Hiroyuki Takei
+2 ; Masashi Kishimoto
+3 ; Hayao Miyazaki
+4 ; Makoto Shinkai
+5 ; Naruto Uzumaki
+6 ; Sakura Haruno
+7 ; Uchiha Sasuke
+8 ; Hatake Kakashi
+9 ; Hayato Date
+10 ; Yuhi Kurenai
+11 ; Sarutobi Asuma
+12 ; Sarutobi Konohamaru
+13 ; Sarutobi Mirai
+14 ; Sarutobi Hiruzen
+15 ; Uchiha Shisui
+16 ; Uchiha Madara
+17 ; Uchiha Fugaku
+18 ; Menma
+19 ; Hyuga Hinata
+20 ; Hyuga Hanabi
+21 ; Hyuga Neji
+22 ; Tenten
+23 ; Rock Lee
+24 ; Senju Tsunade
+25 ; Senju Hashirama
+26 ; Senju Tobirama
+27 ; Uzumaki Kushina
+28 ; Namikaze Minato
+29 ; Jiraiya
+30 ; Orochimaru
+31 ; Kabuto Yakushi
+32 ; Gaara
+33 ; Temari
+34 ; Kankuro
+35 ; Uchiha Obito
+36 ; Nohara Rin
+37 ; Kaguya
+38 ; Tenji
+39 ; Ebisu
+40 ; Iruka
+41 ; Yona
+42 ; Hak
+43 ; Uzumaki Boruto
+44 ; Uchiha Sarada
+45 ; Mitsuki
+46 ; Chocho Akimichi
+47 ; Inojin Yamanaka
+48 ; Shikadai Nara
+49 ; Kawaki
+50 ; Chitanda Eru san
+51 ; Baron von picklestrauss
